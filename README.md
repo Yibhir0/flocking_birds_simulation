@@ -8,9 +8,6 @@ A MonoGame-based simulation of flocking behavior using Craig Reynolds’ Boids a
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Building and Running](#building-and-running)
-- [Content Pipeline](#content-pipeline)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Features
 
@@ -37,9 +34,7 @@ cd FlockingSimulation
 dotnet restore
 ```
 
-## Installation
-
-Building and Running
+## Building and Running
 
 ```bash
 dotnet build FlockingSimulation/FlockingSimulation.csproj
